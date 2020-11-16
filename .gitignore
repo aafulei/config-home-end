@@ -1,0 +1,5 @@
+*
+!.gitignore
+!DefaultKeyBinding.dict
+!do.sh
+!readme.md
